@@ -1,4 +1,4 @@
-<p>Задача "Бот геокодер" в telegram в яндекс лицее</p><hr>
+<h4 align="center"> Бот геокодер в telegram</h4><hr>
 
 <p>
 Для установки всех библиотек сразу:<br>
@@ -10,3 +10,5 @@ pip install -r requirements.txt
 pip install python-telegram-bot[ext] --upgrade<br>
 pip install requests 
 </p><hr>
+
+<p>https://t.me/ValeraGeocoderBot - ссылка на бота (если хостинг жив)</p>
