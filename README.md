@@ -1,4 +1,4 @@
-<h4 align="center"> Бот геокодер в telegram</h4><hr>
+<h4 align="center"> Бот-геокодер в telegram</h4><hr>
 
 <p>
 Для установки всех библиотек сразу:<br>
