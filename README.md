@@ -1,8 +1,8 @@
-<p>Задача "Бот геокодер" в telegram в яндекс лицее</p>
+<p>Задача "Бот геокодер" в telegram в яндекс лицее</p><hr>
 
 <p>
 Для установки всех библиотек сразу:<br>
-pip freeze > requirements.txt
+pip install -r requirements.txt
 </p><hr>
 
 <p>
