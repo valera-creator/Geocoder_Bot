@@ -9,6 +9,4 @@ pip install -r requirements.txt
 Для установки библиотек через терминал:<br>
 pip install python-telegram-bot[ext] --upgrade<br>
 pip install requests 
-</p><hr>
-
-<p>https://t.me/ValeraGeocoderBot - ссылка на бота (если хостинг жив)</p>
+</p>
